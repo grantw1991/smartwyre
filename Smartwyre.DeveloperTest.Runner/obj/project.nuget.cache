@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RKXolCw9sT+v0y0+QxZ8Dp3pwj2KO0969eFHO6j+ZKUFRGlH/rh+XPLFTKN2VbhGEAK6JABBtT7x8tX/jl3CMA==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\Personal\\developer-interview-test\\Smartwyre.DeveloperTest.Runner\\Smartwyre.DeveloperTest.Runner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grant.wright\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\grant.wright\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
